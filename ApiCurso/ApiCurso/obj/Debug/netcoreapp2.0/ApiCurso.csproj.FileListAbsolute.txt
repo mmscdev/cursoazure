@@ -9,3 +9,14 @@ C:\Users\mayar\source\repos\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.A
 C:\Users\mayar\source\repos\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.AssemblyInfo.cs
 C:\Users\mayar\source\repos\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.dll
 C:\Users\mayar\source\repos\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.pdb
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\bin\Debug\netcoreapp2.0\ApiCurso.deps.json
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\bin\Debug\netcoreapp2.0\ApiCurso.runtimeconfig.json
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\bin\Debug\netcoreapp2.0\ApiCurso.runtimeconfig.dev.json
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\bin\Debug\netcoreapp2.0\ApiCurso.dll
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\bin\Debug\netcoreapp2.0\ApiCurso.pdb
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.csprojAssemblyReference.cache
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.csproj.CoreCompileInputs.cache
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.AssemblyInfoInputs.cache
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.AssemblyInfo.cs
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.dll
+C:\Users\mayar\source\repos\Curso-azure\ApiCurso\ApiCurso\obj\Debug\netcoreapp2.0\ApiCurso.pdb

@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mayar\\source\\repos\\ApiCurso\\ApiCurso\\ApiCurso.csproj",
+      "projectUniqueName": "C:\\Users\\mayar\\source\\repos\\Curso-azure\\ApiCurso\\ApiCurso\\ApiCurso.csproj",
       "projectName": "ApiCurso",
-      "projectPath": "C:\\Users\\mayar\\source\\repos\\ApiCurso\\ApiCurso\\ApiCurso.csproj",
+      "projectPath": "C:\\Users\\mayar\\source\\repos\\Curso-azure\\ApiCurso\\ApiCurso\\ApiCurso.csproj",
       "packagesPath": "C:\\Users\\mayar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mayar\\source\\repos\\ApiCurso\\ApiCurso\\obj\\",
+      "outputPath": "C:\\Users\\mayar\\source\\repos\\Curso-azure\\ApiCurso\\ApiCurso\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
